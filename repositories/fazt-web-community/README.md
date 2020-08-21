@@ -1,4 +1,5 @@
 # Fazt Web Community
+
 ![LICENSE](https://img.shields.io/github/license/faztcommunity/fazt-web-community)
 ![Contributors](https://img.shields.io/github/contributors/faztcommunity/fazt-web-community)
 ![Version](https://img.shields.io/github/package-json/v/faztcommunity/fazt-web-community/dev)
@@ -7,25 +8,29 @@
 ![Stars](https://img.shields.io/github/stars/faztcommunity/fazt-web-community?style=social)
 
 ## Table of contents
-* [Repository](#Repository)
-* [Technologies](#Technologies)
-* [Files names](#Files-names)
+
+- [Repository](#Repository)
+- [Technologies](#Technologies)
+- [Files names](#Files-names)
 
 ## [Repository](https://github.com/faztcommunity/fazt-oficial-web)
 
 ## Technologies
-* [Node.JS](https://nodejs.org/)
-* [React.JS](http://reactjs.org/)
-* [MaterialUI](https://material-ui.com/)
-* [BEM](http://getbem.com/)
-* [Jest](https://jestjs.io/)
 
-Typescript - Lenguaje de programación utilizado
-Nextjs - Server Side Rendering
-Storybook - Librería de documentacion utilizada
+- [Node.JS](https://nodejs.org/)
+- [React.JS](http://reactjs.org/)
+- [MaterialUI](https://material-ui.com/)
+- [BEM](http://getbem.com/)
+- [Jest](https://jestjs.io/)
+- [Typescript](https://www.typescriptlang.org/)
+- [NextJs](https://nextjs.org/)
+- [Storybook](https://storybook.js.org/)
+
 
 ## Files names
+
 The file name must be in camelCase.
+
 ```ts
 // BAD: Others names
 // navigator_component.ts
