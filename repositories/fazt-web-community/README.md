@@ -11,14 +11,18 @@
 * [Technologies](#Technologies)
 * [Files names](#Files-names)
 
-## [Repository](https://github.com/faztcommunity/fazt-web-community)
+## [Repository](https://github.com/faztcommunity/fazt-oficial-web)
 
 ## Technologies
 * [Node.JS](https://nodejs.org/)
 * [React.JS](http://reactjs.org/)
 * [MaterialUI](https://material-ui.com/)
-* [SASS](https://sass-lang.com/)
 * [BEM](http://getbem.com/)
+* [Jest](https://jestjs.io/)
+
+Typescript - Lenguaje de programación utilizado
+Nextjs - Server Side Rendering
+Storybook - Librería de documentacion utilizada
 
 ## Files names
 The file name must be in camelCase.
